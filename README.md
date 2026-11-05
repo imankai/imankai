@@ -1,7 +1,7 @@
 # Hi, I'm Imangali 👋
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode" />
