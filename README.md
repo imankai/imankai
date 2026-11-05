@@ -2,7 +2,7 @@
 
 ## About Me
 
-Backend Developer | Student | 19 y.o
+- Backend Developer | Student | 19 y.o
 
 ## 🛠 Tech Stack
 
