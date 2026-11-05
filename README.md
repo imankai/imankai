@@ -1,7 +1,5 @@
 # Hi, I'm Imangali 👋
 
-## About Me
-
 
 ## 🛠 Tech Stack
 
