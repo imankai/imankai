@@ -1,5 +1,7 @@
 # Hi, I'm Imangali 👋
+## About Me
 
+I'm an Information Systems student at SDU, learning Java and web development.
 
 ## 🛠 Tech Stack & Tools
 
