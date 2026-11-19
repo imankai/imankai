@@ -9,7 +9,7 @@ I'm an Information Systems student at SDU, learning Java and web development.
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cs,unity,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,unity,git,github,vscode" />
 </p>
 
 ## 📫 Contacts
