@@ -12,6 +12,6 @@ I'm an Information Systems student at SDU, learning Java and web development.
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,unity,git,github,vscode" />
 </p>
 
-## 📫 Contacts
+## 📫 Contacts:
 
 - Email: imangalikai19@gmail.com
